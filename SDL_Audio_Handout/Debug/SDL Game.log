@@ -1,0 +1,17 @@
+﻿  Application.cpp
+C:\Users\miquelar3\Downloads\SDL_Audio_Handout\SDL_Audio_Handout\SDL_Audio_Handout\SDL\include\SDL_stdinc.h(50,12): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+  Globals.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(34,10): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Main.cpp
+C:\Users\miquelar3\Downloads\SDL_Audio_Handout\SDL_Audio_Handout\SDL_Audio_Handout\MemLeaks.h(5,11): fatal error C1083: Cannot open include file: 'stdlib.h': No such file or directory
+  ModuleAudio.cpp
+C:\Users\miquelar3\Downloads\SDL_Audio_Handout\SDL_Audio_Handout\SDL_Audio_Handout\SDL\include\SDL_stdinc.h(50,12): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+  ModuleInput.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\yvals.h(12,10): fatal error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  ModulePlayer.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\yvals.h(12,10): fatal error C1083: Cannot open include file: 'crtdbg.h': No such file or directory
+  ModuleRender.cpp
+C:\Users\miquelar3\Downloads\SDL_Audio_Handout\SDL_Audio_Handout\SDL_Audio_Handout\SDL\include\SDL_stdinc.h(50,12): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+  ModuleWindow.cpp
+C:\Users\miquelar3\Downloads\SDL_Audio_Handout\SDL_Audio_Handout\SDL_Audio_Handout\SDL\include\SDL_stdinc.h(50,12): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
+  Generating Code...
